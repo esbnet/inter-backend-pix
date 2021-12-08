@@ -1,4 +1,4 @@
-#Sistema em node e react que simula transação do PIX
+# Sistema em node e react que simula transação do PIX
 ## Requisitos e ambiente 
 
 - Visual Studio Code
